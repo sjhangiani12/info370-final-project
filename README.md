@@ -1,1 +1,4 @@
 # info370-final-project
+_Andreas Hindman, Oscar Avatare, Saurav Kharb, Sharan Jhangiani_
+
+This repository contains the data, functions, and other resources used create our final report on predicting the size of California wildfires using historical wildfire and climate data. The Jupyter notebook titled "Data Preparation" describes how data we aquired and wrangled our dataset. The Jupyter notebook titled "Wildfire Resource" provides the python code and documentation that produces our final resource as a webpage. Datasets can found in the 'data' directory. To view the final resource, open "index.html".
